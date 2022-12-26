@@ -1,0 +1,98 @@
+D:\MATERI KULIAH\MATERI PERKULIAHAN SEMESTER 3\PBO\SIPEKA\SIPEKA\bin\Debug\SIPEKA.exe
+D:\MATERI KULIAH\MATERI PERKULIAHAN SEMESTER 3\PBO\SIPEKA\SIPEKA\bin\Debug\SIPEKA.pdb
+D:\MATERI KULIAH\MATERI PERKULIAHAN SEMESTER 3\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.Form1.resources
+D:\MATERI KULIAH\MATERI PERKULIAHAN SEMESTER 3\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.Properties.Resources.resources
+D:\MATERI KULIAH\MATERI PERKULIAHAN SEMESTER 3\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.GenerateResource.Cache
+D:\MATERI KULIAH\MATERI PERKULIAHAN SEMESTER 3\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.exe
+D:\MATERI KULIAH\MATERI PERKULIAHAN SEMESTER 3\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.pdb
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.AssemblyReference.cache
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.SuggestedBindingRedirects.cache
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.Properties.Resources.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Home.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.GenerateResource.cache
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.exe
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.pdb
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\SIPEKA.exe.config
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\SIPEKA.exe
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\SIPEKA.pdb
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\MySql.Data.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.CopyComplete
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.SpalshScreen.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Login_frm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.DokterFrm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Poli_Frm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Pasien_Frm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Pengguna_Frm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.model.ObatFrm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.ResepFrm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.SearchPasien.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\bin\Debug\stdole.dll
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanPasien_Frm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanDokterFrm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanDokterFrmFilter.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanRekapMedisPasienFrm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.PendaftaranFrm.resources
+C:\Kuliah\SEMESTER 3\Pa Wahyu (Praktek_PBO 2)\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanPendaftaranPasienFrm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\SIPEKA.exe.config
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\SIPEKA.exe
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\SIPEKA.pdb
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.Shared.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\MySql.Data.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\bin\Debug\stdole.dll
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.AssemblyReference.cache
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.SuggestedBindingRedirects.cache
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.Properties.Resources.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanDokterFrm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanDokterFrmFilter.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanPasien_Frm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanPendaftaranPasienFrm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.report.LaporanRekapMedisPasienFrm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.DokterFrm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.PendaftaranFrm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Login_frm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.model.ObatFrm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Pasien_Frm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Pengguna_Frm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Poli_Frm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.ResepFrm.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.SearchPasien.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.SpalshScreen.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.Home.resources
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.GenerateResource.cache
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.CoreCompileInputs.cache
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.csproj.CopyComplete
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.exe
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.pdb
+D:\VSCode\PBO\SIPEKA\SIPEKA\obj\x86\Debug\SIPEKA.view.HomeDokter.resources
